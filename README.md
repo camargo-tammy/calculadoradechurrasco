@@ -1,0 +1,2 @@
+# calculadoradechurrasco
+App em C
